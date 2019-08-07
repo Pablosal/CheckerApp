@@ -4,7 +4,7 @@
 
 
 
-###**Para realizar**###
+###**Para realizar**
 ___
 [ ]Realizar eliminacion de checkbox de base de datos
 ___
